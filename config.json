@@ -1,0 +1,20 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/aexon",
+        "prod_uri":"mysql://root:@localhost/aexon",
+        "fb_url":"https://www.facebook.com/profile.php?id=100085518428605",
+        "tw_url":"twitter.com/aexon",
+        "git_url":"github.com/aexon",
+        "blog_name":"AEXON",
+        "tag_line":"Be Ideal Like Me.",
+        "g_user":"kxahoi12@gmail.com",
+        "g_pass":"Password@12345",
+        "about_me":"Adarsha name ttho sunahi hoga",
+        "no_of_posts":2,
+        "admin_user":"admin",
+        "admin_pass":"admin",
+        "upload_loc":"D:\\Documents\\Codes ❄\\flask\\static"
+    }
+}
